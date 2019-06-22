@@ -1,0 +1,14 @@
+.idea
+bin
+out/
+*.iml
+MANIFEST.mf
+*.mf
+*.MF
+*.csv
+logs
+commit*
+data
+*.dat
+*.jar
+db.kv

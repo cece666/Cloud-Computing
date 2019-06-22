@@ -1,0 +1,5 @@
+connect localhost 50021
+login
+stupid
+stupid
+
